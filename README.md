@@ -3,12 +3,12 @@
 Crypto Area is a React Web App powered by COINGECKO cryptocurrency API. Visitors can browse through the top 50 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
 
 ## Total Pages: 06
-##### Homepage
-##### Coins Page
-##### Single Coin Details Page
-##### Contact Page
-##### About Page
-##### 404 Not Found Page
+##### 1. Homepage
+##### 2. Coins Page
+##### 3. Single Coin Details Page
+##### 4. Contact Page
+##### 5. About Page
+##### 6. 404 Not Found Page
 
 
 ## Tech Stack:
