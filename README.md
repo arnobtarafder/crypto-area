@@ -15,7 +15,7 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
 
 1.  React [</ Documentation>](https://reactjs.org/docs/getting-started.html)
     
-2.  Tailwind CSS [</ Documentation>](https://tailwindcss.com/docs/installation)
+2.  Tailwind CSS With React [</ Documentation>](https://tailwindcss.com/docs/guides/create-react-app)
     
 3.  React Router Dom [</ Documentation>](https://reactrouter.com/docs/en/v6/getting-started/overview)
 

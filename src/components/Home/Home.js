@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Homepage = () => {
+const Home = () => {
   return (
     <div className='md:px-16 py-8'>
       <div className='flex flex-col justify-center h-[80vh] items-center'>
@@ -15,4 +15,4 @@ const Homepage = () => {
   )
 }
 
-export default Homepage
+export default Home
