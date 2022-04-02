@@ -1,0 +1,8 @@
+.coin-details-name:hover {
+    color: rgb(10, 82, 58);
+    text-decoration: underline;
+}
+
+.coin-name:hover {
+    color: rgb(27, 126, 151);
+}
