@@ -10,10 +10,10 @@ const Header = () => {
                 </div>
 
             <div className='flex gap-5 text-xl'>
-                <CustomLink to='/'>Home</CustomLink>
-                <CustomLink to='/coins'>Coins</CustomLink>
-                <CustomLink to='/contact'>Contact</CustomLink>
-                <CustomLink to='/about'>About</CustomLink>
+                <CustomLink className="hover:text-black text-gray-600" to='/'>Home</CustomLink>
+                <CustomLink className="hover:text-black text-gray-600" to='/coins'>Coins</CustomLink>
+                <CustomLink className="hover:text-black text-gray-600" to='/contact'>Contact</CustomLink>
+                <CustomLink className="hover:text-black text-gray-600" to='/about'>About</CustomLink>
                 </div>
         </div>
     );

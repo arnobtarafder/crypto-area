@@ -7,7 +7,7 @@ const CoinCard = ({coin}) => {
     return (
         <div className='shadow-lg rounded-2xl w-{250px} bg-white p-5 '>
                         
-            <Link to={`/coins/${coin.id}`}>
+            <Link to={`/coin-details/${coin.id}`}>
                 <div className='flex gap-4 justify-between items-center'>
                     <div className="flex-shrink-0">
                         <a href={"https://" + coin.name +".com"} target="_blank"><img className='mx-auto w-20 object-cover rounded-full h-20' src={coin.image} alt="coinImage" /></a>

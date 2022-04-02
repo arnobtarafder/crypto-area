@@ -1,9 +1,9 @@
 import React from 'react'
 
-const UsAddress = () => {
+const USAAddress = () => {
   return (
-    <div className='border p-8 bg-green-100 w-full'>
-      <div className='flex justify-between items-center'>
+    <div className='border p-8 bg-cyan-100 w-full'>
+      <div className='flex flex-col md:flex-row justify-between items-center'>
         <div>
           <h1>Street: 1203 SN Street</h1>
           <h1>City: New York</h1>
@@ -18,4 +18,4 @@ const UsAddress = () => {
   )
 }
 
-export default UsAddress
+export default USAAddress

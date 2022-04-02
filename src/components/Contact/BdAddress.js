@@ -2,8 +2,8 @@ import React from 'react'
 
 const BdAddress = () => {
   return (
-    <div className='border p-8 bg-blue-100 w-full'>
-      <div className='flex justify-between items-center'>
+    <div className='border p-8 bg-emerald-100 w-full'>
+      <div className='flex flex-col md:flex-row justify-between items-center'>
         <div>
           <h1>Street: 17/4 Dhanmondi.</h1>
           <h1>City: Dhaka</h1>
