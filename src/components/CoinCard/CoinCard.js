@@ -15,14 +15,14 @@ const CoinCard = ({coin}) => {
                     <div className="flex flex-col justify-end">
                         <a href="" target="_blank"><span className='text-gray-600 font-medium coin-name'>{coin.name}</span></a>
                         
-                        <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>zinc</span>: {coin.id}</span>
+                        <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'></span>{coin.symbol}</span>
 
-                        <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>symbol</span>: {coin.symbol}</span>
+                        {/* <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>symbol</span>: {coin.symbol}</span>
                         
                         <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>price</span>: {coin.current_price}</span>
 
                         
-                        <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>rank</span>: {coin.market_cap_rank}</span>
+                        <span className='text-gray-600 text-xs'><span className='text-zinc-800 coin-details-name'>rank</span>: {coin.market_cap_rank}</span> */}
                     </div>
                 </div>
             </Link>
