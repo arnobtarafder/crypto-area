@@ -1,6 +1,6 @@
 # CRYPTO ARENA
 ### [Live Link](https://crypto-arena-2903-0304-2022-cs31.netlify.app/)
-#### https://crypto-arena-2903-0304-2022-cs31.netlify.app/
+https://crypto-arena-2903-0304-2022-cs31.netlify.app/
 
 ## Project Requirements
 
@@ -27,16 +27,7 @@ Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/
 
 ## Resources:
 
-Get all coin API: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false
+Get all coin API: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=1000&page=1&sparkline=false
 
 Get details of a coin by ID: https://api.coingecko.com/api/v3/coins/${id}
-
-Demo Site: https://crypto-cafe.netlify.app
-
-Starter Template: https://github.com/shakilahmedatik/crypto-cafe-starter
-
-Starter Demo Project Github: https://github.com/shakilahmedatik/crypto-cafe-starter
-
-Complete Project Github: https://github.com/shakilahmedatik/crypto-cafe-complete
-
 
