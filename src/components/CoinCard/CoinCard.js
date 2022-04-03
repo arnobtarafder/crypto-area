@@ -5,10 +5,10 @@ import './CoinCard.css'
 const CoinCard = ({coin}) => {
     // console.log(coin);
     return (
-        <div className='shadow-lg rounded-2xl w-[250px] bg-white p-5 '>
+        <div className='shadow-lg rounded-2xl w-[278px] bg-white p-5 '>
                         
             <Link to={`/coin-details/${coin.id}`}>
-                <div className='flex gap-4 justify-between items-center'>
+                <div className='flex gap-6 justify-between items-center'>
                     <div className="flex-shrink-0">
                         <div>
                         <a href={"https://" + coin.name +".com"} target="_blank"><img className='mx-auto w-20 h-20 object-cover rounded-full' src={coin.image} alt="coinImage" /></a>

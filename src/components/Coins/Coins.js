@@ -19,8 +19,8 @@ const Coins = () => {
       <>
       {loading ? (<Spinner />) : ( 
          <div className='px-4 pt-16 pb-24 mx-auto max-w-7xl md:px-2'>
-         <h1 className='text-3xl font-bold text-sans text-gray-700'>Available Crypto Currencies</h1>
-         <h1 className='mb-12 text-xl font-normal text-gray-500'>Total Coins: {coins.length}</h1>
+         <h1 className='text-center text-3xl font-bold text-sans text-gray-700'>Available Crypto Currencies</h1>
+         <h1 className='text-center mb-12 text-xl font-normal text-gray-500'>Total Coins: {coins.length}</h1>
          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 justify-items-center">
          {
              coins.map(coin => <CoinCard 

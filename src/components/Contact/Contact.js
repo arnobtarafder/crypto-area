@@ -28,7 +28,7 @@ const Contact = () => {
           </Link>
           </div>
 
-          <div className='flex justify-between items-center w-full py-44'>
+          <div className='flex justify-between items-center w-full pt-56'>
             <Outlet />
         </div>
       

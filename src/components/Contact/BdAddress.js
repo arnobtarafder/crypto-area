@@ -7,7 +7,7 @@ const BdAddress = () => {
         <div>
           <h1>Street: 17/4 Dhanmondi.</h1>
           <h1>City: Dhaka</h1>
-          <h1>Phone: +8801622222456</h1>
+          <h1>Phone: +8801716518847</h1>
           <h1>Email: contact.bd@cc.com</h1>
         </div>
         <div>
