@@ -2,9 +2,9 @@
 ### [Live Link](https://crypto-arena-2903-0304-2022-cs31.netlify.app/)
 #### https://crypto-arena-2903-0304-2022-cs31.netlify.app/
 
-## Project Requirements
+## About
 
-Crypto Cafe is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Visitors can browse through the top 50 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
+Crypto Arena is a React Web App powered by [COINGECKO](https://www.coingecko.com/en/api/documentation) cryptocurrency API. Visitors can browse through the top 250 Crypto Currencies. Visitors can see details of a coin by clicking on the coin card.
 
 ## Total Pages: 06
 ##### 1. Homepage
