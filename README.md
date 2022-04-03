@@ -1,6 +1,6 @@
 # CRYPTO ARENA
-## [Live Link](https://crypto-arena-2903-0304-2022-cs31.netlify.app/)
-### https://crypto-arena-2903-0304-2022-cs31.netlify.app/
+### [Live Link](https://crypto-arena-2903-0304-2022-cs31.netlify.app/)
+#### https://crypto-arena-2903-0304-2022-cs31.netlify.app/
 
 ## Project Requirements
 
