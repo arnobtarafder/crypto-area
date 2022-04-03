@@ -2,7 +2,9 @@
 User-agent: *
 Disallow:
 
-mistakes:
+
+MISTAKES:
+
 1. app.css > text-align: center; // just because of that the details page's alignment had broken.
 
-2. CoinCard > style{{  w - {250px} is wrong // correct is w - [250px]  }}  // bracket fact
+2. CoinCard > style = {{  w - {250px} is wrong // correct is w - [250px]  }}  // bracket fact
