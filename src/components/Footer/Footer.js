@@ -82,7 +82,7 @@ const Footer = () => {
           </a>
         </div>
         <div className='text-center text-cyan-600 pt-10 sm:pt-12 font-light flex items-center justify-center'>
-          All Rights Reserved By &copy; Crypto Area | arnob tarafder
+          All Rights Reserved By &copy; Crypto Area | Arnob Tarafder
         </div>
       </div>
     </footer>

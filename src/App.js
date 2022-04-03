@@ -27,7 +27,7 @@ function App() {
           <Route path='usa-address' element={<USAAddress />}></Route>
         </Route>
 
-        <Route path='/about'></Route>
+        <Route path='/about' element={<About />}></Route>
         <Route path='*' element={<NotFound />}></Route>
       </Routes>
       <Footer></Footer>
